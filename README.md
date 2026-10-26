@@ -1,40 +1,49 @@
 # Population & Camp Analytics — Excel
 
 ## Project Overview
-This project explores population displacement data covering Iraq, Libya, Syria, and Yemen. The Excel version focuses on organizing the data, summarizing key information, and presenting findings through PivotTables, charts, and an interactive-style dashboard.
+An Excel-based data analysis project exploring population data related to Iraq, Libya, Syria, and Yemen. The project uses PivotTables, summary metrics, and charts to examine population distribution, gender composition, yearly changes, and accommodation types.
 
 ## Project Objectives
-- Organize and explore population displacement data.
-- Summarize relevant data using Excel PivotTables.
-- Present key patterns and comparisons through charts and a dashboard.
-- Make the results easier to understand and communicate.
+- Analyze population distribution across four countries.
+- Compare population totals between 2017 and 2018.
+- Examine male and female population composition.
+- Explore accommodation categories, including rooms, flats, houses, and tents.
+- Present findings through PivotTables, charts, and dashboard-style visualizations.
 
 ## Tools & Skills
 - Microsoft Excel
-- PivotTables and PivotCharts
-- Data summarization and analysis
-- Dashboard design and data visualization
+- PivotTables
+- Data summarization
+- Charts and data visualization
+- Dashboard presentation
 
-## Project Workflow
-1. Reviewed the available dataset and its structure.
-2. Explored the data to identify useful categories and comparisons.
-3. Used PivotTables to summarize the information.
-4. Created charts and dashboard elements to communicate the results.
-5. Collaborated with the project team to present the analysis.
+## Key Analysis Areas
+
+### 1. Population by Country
+Compares population totals and population share across Iraq, Libya, Syria, and Yemen.
+
+### 2. Population by Year
+Examines population totals for 2017 and 2018.
+
+### 3. Gender Analysis
+Summarizes male and female population totals and their proportions.
+
+### 4. Accommodation Analysis
+Compares recorded accommodation categories, including rooms, flats, houses, and tents.
+
+### 5. Geographic Details
+Includes city and settlement names for more detailed exploration.
+
+## Tools and Deliverables
+The repository includes the Excel analysis workbook, a project presentation, and a CSV data file. The contents and relationship of each file should be verified against the final project materials.
 
 ## Project Contribution
 **Team project**
 
-This Excel version was completed as part of a team project. The work focused on Excel-based analysis, PivotTables, and dashboard presentation.
+This Excel analysis was completed as part of a team project. The project involved Excel-based analysis, PivotTables, and dashboard presentation.
 
-## Dataset
-The project covers population displacement records related to Iraq, Libya, Syria, and Yemen.
+## Related Work
+The Python and Power BI versions of the Population & Camp project are separate components and can be linked here when their public repositories are confirmed.
 
-## Key Learning Outcomes
-- Applying Excel tools to real-world data analysis.
-- Summarizing data efficiently with PivotTables.
-- Communicating analytical findings through visualizations.
-- Collaborating on a data analysis project.
-
-## Note
-This repository documents the Excel component of the project. The Python and Power BI versions are separate project components and should be linked independently when publicly available.
+## Notes
+Figures and labels are reported from the project materials. Some extracted text may contain formatting or OCR errors; consult the workbook for the original values.
